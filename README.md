@@ -12,3 +12,12 @@ cd  bin
 make
 ./Hash
 ```
+
+### NOTE
+- if the compiler can't find the openssl library, download it on debian 
+```bash
+sudo apt-get install libssl-dev
+```
+- WINDOWS 
+```bash
+```
