@@ -21,3 +21,5 @@ sudo apt-get install libssl-dev
 - WINDOWS 
 ```bash
 ```
+
+- or you can use the openssl library found in librariesNeeded directory.
