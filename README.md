@@ -23,6 +23,6 @@ sudo apt-get install libssl-dev
 ```bash
 	gcc ../src/main.c -o Hash -lcrypto -I ../librariesNeeded/openssl
 ```
-	- see this [answer](https://stackoverflow.com/questions/2123699/where-does-my-c-compiler-look-to-resolve-my-includes) for more details
+- see this [answer](https://stackoverflow.com/questions/2123699/where-does-my-c-compiler-look-to-resolve-my-includes) for more details
 
 - or you can use the openssl library found in librariesNeeded directory.
